@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pi/Desktop/Receiver/build",
+  "command": "/usr/bin/clang++-11 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -I/home/pi/Desktop/Receiver/build/receiver_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtBluetooth -g -fPIC -o CMakeFiles/receiver.dir/receiver_autogen/mocs_compilation.cpp.o -c /home/pi/Desktop/Receiver/build/receiver_autogen/mocs_compilation.cpp",
+  "file": "/home/pi/Desktop/Receiver/build/receiver_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/Receiver/build",
+  "command": "/usr/bin/clang++-11 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -I/home/pi/Desktop/Receiver/build/receiver_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtBluetooth -g -fPIC -o CMakeFiles/receiver.dir/main.cpp.o -c /home/pi/Desktop/Receiver/main.cpp",
+  "file": "/home/pi/Desktop/Receiver/main.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/Receiver/build",
+  "command": "/usr/bin/clang++-11 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -I/home/pi/Desktop/Receiver/build/receiver_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/aarch64-linux-gnu/qt5/QtBluetooth -g -fPIC -o CMakeFiles/receiver.dir/shared_memory.cpp.o -c /home/pi/Desktop/Receiver/shared_memory.cpp",
+  "file": "/home/pi/Desktop/Receiver/shared_memory.cpp"
+}
+]

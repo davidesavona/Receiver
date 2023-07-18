@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/Receiver/main.cpp
+iostream
+-
+shared_memory.h
+/home/pi/Desktop/Receiver/shared_memory.h
+
+/home/pi/Desktop/Receiver/shared_memory.h
+sys/ipc.h
+-
+sys/shm.h
+-
+stdio.h
+-
+iostream
+-
+
